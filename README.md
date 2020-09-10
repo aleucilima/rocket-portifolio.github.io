@@ -1,8 +1,8 @@
-Ol¨¢ muuundo!
+OlÃ¡ muuundo!
 
-Esta p¨¢gina de portif¨®lio foi desenvolvida com todos os conhecimentos obtidos durante o curso de front-end que faz parte do Bootcamp Launchbase da Rocketseat. 
+Esta pÃ¡gina de portifolio foi desenvolvida com todos os conhecimentos obtidos durante o curso de front-end que faz parte do Bootcamp Launchbase da Rocketseat. 
 
-Neste website foram utilizadas as seguintes t¨¦cnologias:
+Neste website foram utilizadas as seguintes tï¿½ï¿½cnologias:
 
     - HTML 5
     - CSS 3

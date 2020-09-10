@@ -8,6 +8,7 @@ Neste website foram utilizadas as seguintes técnologias:
     - CSS 3
     - JavaScript
 
+Mas, como nem tudo são flores, ainda não consegui entender como funciona o sistema de rotas do Github Pages.
 
 ## English ##
 
@@ -21,3 +22,6 @@ The following technologies were used on this website:
     - HTML 5
     - CSS 3
     - JavaScript
+
+
+But, as not everything is flowers, I still cannot understand how the Github Pages route system works.
